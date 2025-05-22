@@ -6,10 +6,9 @@ Welcome to my collection of shell scripts and utilities for troubleshooting IoT 
 ## Features
 
 - 🔍 **Show Devices**: Find all devices on your network
-- 📊 **No Connection**: Verify connectivity issues, troubleshoot
+- 📊 **Connection**: Test connection, verify connectivity issues, troubleshoot
 - 📶 **WiFi Analysis**: Analyze signal strength and channel congestion
 - 🔒 **Sec Scan**: Check for common IoT security issues
-- 📹 **Cam Check**: Test and troubleshoot IP cameras
 - 📈 **Monitor**: Set up continuous monitoring of your IoT devices
 - 📋 **Diagnostics**: Collect comprehensive network information
 
